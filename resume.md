@@ -61,7 +61,7 @@ permalink: "/resume"
 
 ## EXECUTIVE SUMMARY
 
-Highly talented, motivated and research oriented Computing and Communications PhD graduate with extensive cross-domain engineering experience comprising of over 11 years work experience in multiple domains of Network Security, Cyber Security , DevOps, and automation solution development with a proven track record of success delivering complicated security architecture, design, development, and implementation.
+I am an exceptionally athletic individual with a strong passion for sports, demonstrated by my numerous achievements, including trophies, awards, ribbons, and Sydney East jumpers. I actively participate in multiple sports, with soccer being my most dominant and refined skill. In addition to my athletic excellence, I am also highly accomplished in academics, particularly in mathematics. My aptitude in this field is reflected in the multiple mathematics awards I have received, as well as my success in the Math Olympiad, where I have earned distinguished badges.
 <br><br>
 Instrumental in driving improvements in processes, operational efficiency/agility and system stability in complex large-scale mission-critical environments across diverse industries including Financial, IT, Travel, Food and Beverage, and Education services. Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Security automation, security technology REST APIs, Infrastructure as Code (Terraform/Terratest), Python secure software development, Linux, Bash scripting, Ansible/Tower, Security as Code, Docker, CI/CD and DevSecOps tools/methodologies.
 <br><br>

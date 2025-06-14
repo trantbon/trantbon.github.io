@@ -42,13 +42,13 @@ google-analytics: G-CRYD0SR2FS
 disqus-shortname: cyberking
 
 # Name of the Author
-author-name: Dai Tran
+author-name: Kevin Tran
 # URL for the Image of the Author
 author-image: /assets/images/author_dai-tran-linkedin.jpg
 # 60 Words About the Author
 author-about: Helping organizations achieve their security as code goals
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://trantdai.github.io/
+author-url: https://trantbon.github.io/
 
 # SASS
 sass:
