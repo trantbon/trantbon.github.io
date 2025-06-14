@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Kevin Tran
 # Description of the Site
-description: An agile continuous learning Security as Code enabler
+description: A well-rounded, dedicated learner with a passion for sports and a record of high achievement.
 # URL of Image of the Site
 site-image: assets/images/white_hat_hacker.jpg
 # Keywords of the Site
@@ -94,3 +94,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  
