@@ -7,7 +7,7 @@ categories: []
 tags: []
 author:
   email: spmkeeper@gmail.com
-  display_name: Dai Tran
+  display_name: Kevin Tran
   first_name: Dai
   last_name: Tran
 permalink: "/resume"
