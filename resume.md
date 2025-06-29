@@ -8,7 +8,7 @@ tags: []
 author:
   email: kevin.tran156@education.nsw.gov.au
   display_name: Kevin Tran
-  first_name: Dai
+  first_name: Kevin
   last_name: Tran
 permalink: "/resume"
 ---
