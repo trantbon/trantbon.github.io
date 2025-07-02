@@ -28,7 +28,7 @@ a.navbar-item:hover,
 
 a.navbar-item.is-active {
     background-color: rgba($color: #fff, $alpha: 0.25) !important;
-    color: #ffd700;
+    color: #ffffff;
 
     &:hover {
         background-color: rgba($color: #fff, $alpha: 0.25) !important;
@@ -46,7 +46,7 @@ a.navbar-link {
 }
 
 #navbar .navbar-link::after {
-    border-color: #ffd700;
+    border-color: #ffffff;
 }
 
 #hero {
@@ -87,7 +87,7 @@ a.navbar-link {
         margin: auto;
 
         img {
-            border: 0.25rem dashed #ffd700;
+            border: 0.25rem dashed #ffffff;
         }
     }
 
@@ -200,7 +200,7 @@ a.navbar-link {
 
         &::placeholder {
             font-weight: 500;
-            color: #ffd700;
+            color: #ffffff;
             letter-spacing: 0.25rem;
         }
     }
@@ -330,7 +330,7 @@ a.navbar-link {
 
     .title {
         margin: auto;
-        color: #00b7ff;
+        color: #ffffff;
     }
 
     #post-image {
@@ -352,7 +352,7 @@ a.navbar-link {
     .content {
 
         h1 {
-            color: #ffd700;
+            color: #ffffff;
         }
 
         pre {
@@ -367,7 +367,7 @@ a.navbar-link {
         }
 
         pre code {
-            color: #ffd700;
+            color: #ffffff;
             background-color: #3273dc;
             font-size: 1.2em;
             font-weight: bold;
@@ -380,7 +380,7 @@ a.navbar-link {
         h5,
         h6,
         strong {
-            color: #ffd700;
+            color: #ffffff;
         }
 
         ol,
@@ -394,12 +394,12 @@ a.navbar-link {
             border-left: none;
 
             a {
-                color: #ffd700;
+                color: #ffffff;
             }
 
             code {
                 background-color: #3273dc;
-                color: #ffd700;
+                color: #ffffff;
             }
         }
 
@@ -448,7 +448,7 @@ a.navbar-link {
         strong,
         p,
         ul {
-            color: #ffd700;
+            color: #fffffd;
         }
 
         ul,
