@@ -1,28 +1,28 @@
-- name: End of Life New York Cisco Firewall Migration to Palo Alto Firewall
-  image: /assets/images/projects/firewall.png
-  link: /blog/End-of-Life-New-York-Cisco-Firewall-Migration-to-Palo-Alto-Firewall
-  description: Firewall migration from traditional layer 4 Cisco ASA firewall cluster to the next generation Palo Alto PA-5000 series firewall cluster.
-- name: SOC IP Blocking Automation
-  link:
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
-  description: Stay tuned! More detail is coming soon!
-- name: End-to-end Firewall Path Identification Automation
-  link:
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
-  description: Stay tuned! More detail is coming soon!
-- name: Terraform Based Self Service Portal for Palo Alto VM-Series Firewall Auto Deployment onto Azure
-  link:
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
-  description: Stay tuned! More detail is coming soon!
-- name: Terraform Based Self Service Portal for Palo Alto Security Policy Auto Management
-  link:
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
-  description: Stay tuned! More detail is coming soon!
-- name: Python Based Self Service Portal for Splunk HEC Auto Onboarding
-  link:
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Stay tuned! More detail is coming soon!
-- name: Terraform Based Self Service Portal for Akamai IP/Geo Firewall and CDN ACL Auto Management
-  link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: Stay tuned! More detail is coming soon!
+# - name: End of Life New York Cisco Firewall Migration to Palo Alto Firewall
+#   image: /assets/images/projects/firewall.png
+#   link: /blog/End-of-Life-New-York-Cisco-Firewall-Migration-to-Palo-Alto-Firewall
+#   description: Firewall migration from traditional layer 4 Cisco ASA firewall cluster to the next generation Palo Alto PA-5000 series firewall cluster.
+# - name: SOC IP Blocking Automation
+#   link:
+#   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+#   description: Stay tuned! More detail is coming soon!
+# - name: End-to-end Firewall Path Identification Automation
+#   link:
+#   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+#   description: Stay tuned! More detail is coming soon!
+# - name: Terraform Based Self Service Portal for Palo Alto VM-Series Firewall Auto Deployment onto Azure
+#   link:
+#   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+#   description: Stay tuned! More detail is coming soon!
+# - name: Terraform Based Self Service Portal for Palo Alto Security Policy Auto Management
+#   link:
+#   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+#   description: Stay tuned! More detail is coming soon!
+# - name: Python Based Self Service Portal for Splunk HEC Auto Onboarding
+#   link:
+#   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+#   description: Stay tuned! More detail is coming soon!
+# - name: Terraform Based Self Service Portal for Akamai IP/Geo Firewall and CDN ACL Auto Management
+#   link:
+#   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+#   description: Stay tuned! More detail is coming soon!
