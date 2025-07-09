@@ -33,7 +33,7 @@ permalink: "/resume"
 <br />
 </div>
 <br>
-*Last updated: **June 2025***
+*Last updated: **July 2025***
 
 ## EXECUTIVE SUMMARY
 
@@ -89,18 +89,27 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 
 ## **Hobbies & Interests**
 - Soccer ⚽
+<br><br>
 - Chess ♟️
+<br><br>
 - Swimming 🏊
+<br><br>
 - Creative Writing ✍️
+<br><br>
 - Mathematics ➕➗
+<br><br>
 - Athletics 🏃
+<br><br>
 - Reading 📖
 
 ---
 
 ## **Current Goals**
 - Prepare for the **Selective School Test (SS)**
+<br><br>
 - Continue improving in **mathematics and writing**
+<br><br>
 - Compete at higher levels in **soccer and athletics**
+<br><br>
 - Inspire others through leadership and teamwork
 
