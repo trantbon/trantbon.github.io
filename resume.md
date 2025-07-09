@@ -12,7 +12,7 @@ author:
   last_name: Tran
 permalink: "/resume"
 ---
-# Continuous Innovative and Resourceful Security Enabler
+# Creative Energetic and All-Rounder Person
 
 <div class="column is-full is-size-4">
 {% unless site.email == '' %}
@@ -34,36 +34,6 @@ permalink: "/resume"
 </div>
 <br>
 *Last updated: **June 2025***
-
-## TABLE OF CONTENTS
-
-  - [EXECUTIVE SUMMARY](#executive-summary)
-  - [CORE TECHNICAL COMPETENCIES](#core-technical-competencies)
-  - [RECOGNISED ACHIEVEMENTS](#recognised-achievements)
-  - [INDUSTRY EXPERIENCE](#industry-experience)
-      - [Senior Engineer - Security Automation](#senior-engineer---security-automation)
-      - [Senior Cyber Security Automation Engineer](#senior-cyber-security-automation-engineer)
-      - [Technology Owner - Firewall Automation](#technology-owner---firewall-automation)
-      - [Network Security Engineer](#network-security-engineer)
-      - [IT Network Support Analyst](#it-network-support-analyst)
-      - [Network Engineer](#network-engineer)
-      - [Network & Systems Administrator, Contractor](#network--systems-administrator-contractor)
-      - [Cisco Network Engineer, Contractor](#cisco-network-engineer-contractor)
-      - [System Administrator](#system-administrator)
-  - [ACADEMIC EXPERIENCE](#academic-experience)
-      - [Researcher](#researcher)
-  - [EDUCATION HISTORY](#education-history)
-      - [PhD in Computing and Communications Engineering](#phd-in-computing-and-communications-engineering)
-      - [Master of Computer Engineering (Network Security Focus)](#master-of-computer-engineering-network-security-focus)
-      - [Engineer in Information and Communications Technology](#engineer-in-information-and-communications-technology)
-  - [FURTHER TRAINING & INDUSTRY CERTIFICATES](#further-training--industry-certificates)
-  - [PUBLICATIONS](#publications)
-
-## ABOUT ME
-I am a highly driven and versatile student who excels in both academics and athletics. My journey is powered by discipline, passion, and a love for learning. Whether it's dominating on the soccer field, solving complex math problems, or crafting imaginative stories, I strive to give my best in everything I do.
-<br><br>
-I balance my academic goals with elite-level sports performance, and I’ve earned numerous awards in soccer, athletics, swimming, and chess. I also enjoy creative writing and have a growing passion for mathematics, which I’m currently exploring more deeply as I prepare for the Selective School Test.
-
 
 ## EXECUTIVE SUMMARY
 
