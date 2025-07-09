@@ -2,7 +2,7 @@
 title: Publications
 layout: publication
 ---
-
+<!-- 
 ## 📙 Book Chapters
 
 📙 Thanh Dai Tran, and Johnson I. Agbinya, ["Controlled Link Establishment Attack on Key Pre-Distribution Schemes for Distributed Sensor Networks and Countermeasures"](https://doi.org/10.1201/EBK1439819197), in Security of Self-Organizing Networks: MANET, WSN, WMN, VANET, 1st ed., Pathan, A.-S.K., Ed., New York: AUERBACH Publications, Taylor and Francis Group, 2011.
@@ -39,4 +39,4 @@ layout: publication
 
 ## 📝 Korean Domestic Conferences
 
-📝 Thanh Dai Tran, Cao Trong Hieu, Choong Seon Hong, "A Resource-Optimal Key Pre-distribution Scheme for Wireless Sensor Networks", in Proceedings of the Spring Conference of the Korea Information Processing Society (KIPS), May, 2006.
+📝 Thanh Dai Tran, Cao Trong Hieu, Choong Seon Hong, "A Resource-Optimal Key Pre-distribution Scheme for Wireless Sensor Networks", in Proceedings of the Spring Conference of the Korea Information Processing Society (KIPS), May, 2006. -->
