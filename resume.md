@@ -16,7 +16,7 @@ permalink: "/resume"
 
 <div class="column is-full is-size-4">
 {% unless site.email == '' %}
-<a href="mailto:{{site.email}}" target="_blank" class="has-text-info"><i class="fas fa-envelope"></i> {{site.email}}</a>
+<a href="mailto:{{site.email}}" target="_blank" class="has-text-info"><i class="fas fa-envelope"></i> "Email"</a>
 {% endunless %}
 {% unless site.linkedin_username == '' %}
 <br />
