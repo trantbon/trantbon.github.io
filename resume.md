@@ -16,15 +16,15 @@ permalink: "/resume"
 
 <div class="column is-full is-size-4">
 {% unless site.email == '' %}
-<a href="mailto:{{site.email}}" target="_blank" class="has-text-info"><i class="fas fa-envelope"></i> "Email"</a>
+<a href="mailto:{{site.email}}" target="_blank" class="has-text-info"><i class="fas fa-envelope"></i> Email/</a>
 {% endunless %}
 {% unless site.linkedin_username == '' %}
 <br />
-<a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-info"><i class="fab fa-linkedin"></i> {{site.linkedin_username}}</a>
+<a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-info"><i class="fab fa-linkedin"></i> Linkedin</a>
 {% endunless %}
 {% unless site.github_username == '' %}
 <br />
-<a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-info"><i class="fab fa-github"></i> {{site.github_username}}</a>
+<a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-info"><i class="fab fa-github"></i> GitHub</a>
 {% endunless %}
 {% unless site.twitter_username == '' %}
 <br />
