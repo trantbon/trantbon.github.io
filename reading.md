@@ -22,6 +22,25 @@ layout: reading
 - {: .read-book-li } Nevermore 2 -Wondersmith 
 - {: .read-book-li } Nevermore 3 -Hollow Pox
 
+## 📙 Wings of Fire
+- {: .read-book-li } The Dragonet Prophecy
+- {: .read-book-li } The Lost Heir
+- {: .read-book-li } The Hidden Kingdom
+- {: .read-book-li } The Dark Secret
+- {: .read-book-li } The Brightest Night
+- {: .read-book-li } Moon Rising
+- {: .read-book-li } Winter Turning
+- {: .read-book-li } Escaping Peril
+- {: .read-book-li } Talons of Power
+- {: .read-book-li } Darkness of Dragons
+- {: .read-book-li } The Lost Continent
+- {: .read-book-li } The Hive Queen
+- {: .read-book-li } The Poison Jungle
+- {: .read-book-li } The Dangerous Gift
+- {: .read-book-li } The Flames of Hope
+
+
+
 
 
 
