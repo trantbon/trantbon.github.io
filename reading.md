@@ -39,6 +39,31 @@ layout: reading
 - {: .read-book-li } The Dangerous Gift
 - {: .read-book-li } The Flames of Hope
 
+## 📙 Educational
+- {: .read-book-li } 7 habits of highly effective teens
+
+## 📙 Kenzy and Max
+- {: .read-book-li } Breaking News
+- {: .read-book-li } Disappearing Act
+- {: .read-book-li } Undercover
+- {: .read-book-li } Out of Sight
+- {: .read-book-li } Freefall
+- {: .read-book-li } Full Speed
+- {: .read-book-li } Take Down
+- {: .read-book-li } Spy Games
+
+## 📙 Land Of The Stories
+- {: .read-book-li } The Wishing Spell
+- {: .read-book-li } The Enchantress Returns
+- {: .read-book-li } A Grimm Warning
+- {: .read-book-li } Beyond the Kingdoms
+- {: .read-book-li } An Author's Odyssey
+- {: .read-book-li } Worlds Collide
+## Prequel To Land Of The Stories
+- {: .read-book-li } A Tale of Magic
+- {: .read-book-li } A Tale of Witchacraft
+- {: .read-book-li } A Tale of Sorcery
+
 
 
 
