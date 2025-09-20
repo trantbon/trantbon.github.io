@@ -21,7 +21,7 @@ tags:
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("play-music").addEventListener("click", function () {
-      const audio = document.getElementById("bg-music");
+      const audio = document.getElementById("https://cdn.voicemod.net/sounds/2023/09/9d163cb1-4d2d-4112-9845-08c762f6c313.mp3");
       audio.play().catch(function (error) {
         console.error("Playback failed:", error);
       });
