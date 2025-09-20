@@ -2,7 +2,7 @@
 ---
 title: Engineering Chronicles - Disc Launcher Debut
 layout: post
-post-image: "/assets/images/blog/disc_launcher.jpg"
+post-image: "/assets/images/blog/disc_launcher.md"
 description: My first CrunchLabs box.
 tags:
 - engineering
@@ -13,7 +13,7 @@ tags:
 
 <audio autoplay loop>
   <source src="https://cdn.voicemod.net/sounds/2023/09/9d163cb1-4d2d-4112-9845-08c762f6c313.mp3" type="audio/mpeg">
-  
+
 </audio>
 
 
