@@ -15,4 +15,4 @@ This is the start of a series of my life to got to my dream job, an engineer. I 
 Today, I received my first ever CrunchLabs box made Mark Rober. Each month, Mark sends out a new box with parts that you use to build with a video explaining the physics and how to build the robot. Since I just started, I got the easiest build challenge which was a disc launcher. There was many parts used to build it, but the most important part was the flywheel. It is a hollow, heavy wheel that spins and stores up kinetic energy but spinning at very high rates.
 
 
-<iframe width="560" height="315" src=src="https://www.youtube.com/embed/Nw6ry2apRAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nw6ry2apRAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
