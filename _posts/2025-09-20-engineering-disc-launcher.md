@@ -11,10 +11,11 @@ tags:
 - Disc Launcher
 ---
 
-<audio autoplay>
+<audio autoplay loop>
   <source src="https://cdn.voicemod.net/sounds/2023/09/9d163cb1-4d2d-4112-9845-08c762f6c313.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+  
 </audio>
+
 
 This is the start of a series of my life to got to my dream job, an engineer. I will be posting after I finish one blog about my day to day life and what I do to become an engineer. In here is information about what I have learned about the robot that I had to build, the disc launcher.
 
