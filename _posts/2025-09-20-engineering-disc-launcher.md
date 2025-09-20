@@ -1,4 +1,3 @@
-
 ---
 title: Engineering Chronicles - Disc Launcher Debut
 layout: post
@@ -11,8 +10,13 @@ tags:
 - Disc Launcher
 ---
 
-<audio autoplay loop controls>
+<p onclick="document.getElementById('bg-music').play()" style="cursor: pointer; color: blue; text-decoration: underline;">
+  Click here to start the music 🎵
+</p>
+
+<audio id="bg-music" loop>
   <source src="https://cdn.voicemod.net/sounds/2023/09/9d163cb1-4d2d-4112-9845-08c762f6c313.mp3" type="audio/mpeg">
+</audio>
 
 </audio>
 
