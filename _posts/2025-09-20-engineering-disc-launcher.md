@@ -18,7 +18,7 @@ tags:
   <source src="https://cdn.voicemod.net/sounds/2023/09/9d163cb1-4d2d-4112-9845-08c762f6c313.mp3" type="audio/mpeg">
 </audio>
 
-</audio>
+
 
 
 This is the start of a series of my life to got to my dream job, an engineer. I will be posting after I finish one blog about my day to day life and what I do to become an engineer. In here is information about what I have learned about the robot that I had to build, the disc launcher.
@@ -27,3 +27,23 @@ Today, I received my first ever CrunchLabs box made Mark Rober. Each month, Mark
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nw6ry2apRAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+<p id="play-music" style="cursor: pointer; color: blue; text-decoration: underline;">
+  Click here to start the music 🎵
+</p>
+
+<audio id="bg-music" loop>
+  <source src="https://cdn.voicemod.net/sounds/2023/09/9d163cb1-4d2d-4112-9845-08c762f6c313.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+  document.getElementById('play-music').addEventListener('click', function () {
+    const audio = document.getElementById('bg-music');
+    audio.play().catch(function (error) {
+      console.error("Playback failed:", error);
+    });
+  });
+</script>
