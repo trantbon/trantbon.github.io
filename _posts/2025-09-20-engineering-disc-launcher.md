@@ -11,7 +11,7 @@ tags:
 - Disc Launcher
 ---
 
-<audio autoplay loop>
+<audio autoplay loop controls>
   <source src="https://cdn.voicemod.net/sounds/2023/09/9d163cb1-4d2d-4112-9845-08c762f6c313.mp3" type="audio/mpeg">
 
 </audio>
