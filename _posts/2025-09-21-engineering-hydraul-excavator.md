@@ -1,5 +1,5 @@
 ---
-title: Engineering Chronicles - Kinetic Energy
+title: Engineering Chronicles - Hydraul Excavator
 layout: post
 post-image: "/assets/images/blog/disc_launcher.jpg"
 description: A guide to show how the content will look and how will different
