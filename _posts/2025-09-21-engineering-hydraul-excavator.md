@@ -1,7 +1,7 @@
 ---
 title: Engineering Chronicles - Hydraul Excavator
 layout: post
-post-image: "/assets/images/blog/disc_launcher.jpg"
+post-image: "/assets/images/blog/71U3DJRIbjL._UF894,1000_QL80_.jpg"
 description: A guide to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
