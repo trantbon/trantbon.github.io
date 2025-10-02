@@ -20,3 +20,6 @@ Instead of wires, circuits and batteries, this robot relies on syringes and tube
 
 Through this project, I gained a deeper understanding of how hydraulic systems work in real-world machines like diggers, cranes, and even aircraft landing gear. These systems use fluid to transfer force efficiently, allowing for smooth and powerful motion. It’s a brilliant example of physics in action — pressure, force, and mechanical advantage all working together.
 But the journey wasn’t just about building a robot. I learned so much along the way. From building the design and assembling the frame to troubleshooting problems and fine-tuning the movement, every step taught me something new. I explored the physics behind each part — how pistons work, how pressure builds, and how mechanical systems convert energy into motion. I also discovered the importance of precision and patience, especially when working with fluid-based systems
+
+
+*copyright by Kevin and Khan Academy

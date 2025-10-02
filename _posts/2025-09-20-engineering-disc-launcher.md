@@ -17,4 +17,6 @@ Today, I received my first ever CrunchLabs box made Mark Rober. Each month, Mark
 Some other parts included a battery, some wires and a board. What the robot does is there is a battery connecting to an on/off button. When the on/off switch is turned on, the battery, which is connected to a DC motor, powers the flywheel making it spin at high rates and building up kinetic energy. Then you slide a disc into the launcher, the spinning wheel grabs it and flings it out with lots of energy. 
 
 
+*copyright by Kevin and Khan Academy
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nw6ry2apRAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

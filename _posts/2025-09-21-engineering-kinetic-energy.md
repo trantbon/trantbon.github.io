@@ -18,7 +18,9 @@ Electric potential energy arises when objects with electric charge interact thro
 
 Lastly, magnetic potential energy involves objects with magnetic fields, known as magnets. Unlike electric charges, magnets have poles: north and south. Magnetic interactions are similar to electric ones—opposite poles attract, and like poles repel. Magnetic potential energy is influenced by the force between these poles, often represented as F_m.
 
-*copyright by Kevin and Khan Academy
+
+
+*Copyright by Kevin and Khan Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=eVW8X_TsBzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
