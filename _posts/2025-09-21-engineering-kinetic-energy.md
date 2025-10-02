@@ -12,9 +12,9 @@ tags:
 
 Kinetic energy is the energy an object has because it’s moving. The faster something moves, and the heavier it is, the more kinetic energy it has. For example, a rolling ball, a flying bird, or a speeding car all have kinetic energy. Engineers use this concept to design machines that move, like vehicles, robots, or even amusement park rides. Understanding kinetic energy helps us figure out how motion works and how to control it to do useful things — like lifting, launching, or stopping objects.
 
+potential energy
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eVW8X_TsBzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=eVW8X_TsBzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
