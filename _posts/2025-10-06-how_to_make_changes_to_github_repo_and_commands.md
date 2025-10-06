@@ -6,7 +6,7 @@ description: A guide no how to use the git commands properly and how to make cha
 tags:
 - GitHub
 - Jekyll
-- 
+
 ---
 
 **All the Git Commands Need to Know**
