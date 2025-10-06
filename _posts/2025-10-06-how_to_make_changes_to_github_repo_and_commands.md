@@ -101,51 +101,53 @@ To make changes to a GitHub repo, you start by opening your terminal. This is th
 Open your terminal and make sure you're in Bash.
 
 ### Step 2
-Switch into a different branch by typing:
-git switch <branch-name>
-
-If you don’t have one yet, create and switch to a new one with:
-git switch -c <new-branch-name>
+Switch into the main branch to start fresh:
+git switch master
 
 ### Step 3
 Pull the latest version of the code so you're working with the freshest copy:
 git pull
 
-*(Only do this if the branch already exists remotely — otherwise skip it.)*
+*(Only do this if the branch exists remotely — otherwise skip it.)*
 
 ### Step 4
-Make whatever changes you need in your new branch — fix bugs, add features, tweak stuff.
+Create and switch to a new branch where you'll make your changes:
+git switch -c <new-branch-name>
 
 ### Step 5
+Make whatever changes you need in your new branch — fix bugs, add features, tweak stuff.
+
+### Step 6
 Once you're happy with the changes, run:
 git add .
 git commit -m "your message"
 git push
 
-After you hit enter on git push, you’ll probably see this message:
-fatal: The current branch <branch-name> has no upstream branch.
+If this is your first time pushing the branch, you’ll probably see this message:
+
+(fatal: The current branch <branch-name> has no upstream branch.
 To push the current branch and set the remote as upstream, use:
 
-    git push --set-upstream origin <branch-name>
-
-### Step 6
-Copy and paste that command into Bash:
-git push --set-upstream origin <branch-name>
+    git push --set-upstream origin <branch-name>)
 
 ### Step 7
+Copy and paste that command into Bash:
+*git push --set-upstream origin <branch-name>*
+
+### Step 8
 Now head over to your GitHub repo page. You should see a green button that says:
 Compare & pull request
 
-### Step 8
+### Step 9
 Click it. Add a short title and a quick description of what you changed.
 
-### Step 9
+### Step 10
 Hit Create pull request. That sends your changes off for review or merging.
 
-### Step 10
+### Step 11
 When you're ready, click Merge pull request, then Confirm merge.
 
-### Step 11
+### Step 12
 (Optional but tidy) Click Delete branch to clean up.
 
 # 🎉 Boom — your updates are now part of the main project!
