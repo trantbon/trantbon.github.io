@@ -64,3 +64,6 @@ git tag <tag-name>                                # Create a new tag
 git push origin <tag-name>                        # Push a tag to the remote repository
 
 
+**Making Changes to GitHub Repo**
+
+To make changes to a GitHub repo, you start by opening your terminal. This is the place where you type commands. Make sure you're inside the folder of the project you want to work on. Once you're there, you can open the files and make any changes you want—like fixing bugs, adding new features, or updating text. After you're done editing, go back to the terminal and type *(git add .)* to tell Git that you want to include all the changes you just made. Then type git *(commit -m "your message")*—inside the quotes, write a short note about what you changed, like "fixed login bug" or "updated homepage text." This saves your changes with a label so you can remember what you did. Finally, type *(git push)* to send your changes up to GitHub so they show up in the online repo. That’s it! Your updates are now live on GitHub.
