@@ -92,4 +92,62 @@ repository
 To make changes to a GitHub repo, you start by opening your terminal. This is the place where you type commands. Make sure you're inside the folder of the project you want to work on. Once you're there, you can open the files and make any changes you want—like fixing bugs, adding new features, or updating text. After you're done editing, go back to the terminal and type *(git add .)* to tell Git that you want to include all the changes you just made. Then type git *(commit -m "your message")*—inside the quotes, write a short note about what you changed, like "fixed login bug" or "updated homepage text." This saves your changes with a label so you can remember what you did. Finally, type *(git push)* to send your changes up to GitHub so they show up in the online repo. That’s it! Your updates are now live on GitHub.
 
 **Merging and Creating New Branches**
+
  Branching in Git is like making a sandbox where you can play with new ideas without messing up your main project. It’s super useful for testing features or fixing bugs safely. To create a new branch, use *(git switch -c ______)*, which makes and switches to the branch in one go. Make sure you add the name of the branch in the blank space. After making changes, you can merge it back into the main branch *(usually called master)* by first switching back with git switch master, then running git merge feature-idea. This pulls in all your updates. Everything stays tracked inside your Git repo, so you always know what’s changed and where.
+
+# 💻 How to Make Changes in Git and Merge Like a Pro
+
+### Step 1
+Open your terminal and make sure you're in Bash.
+
+### Step 2
+Switch into a different branch by typing:
+git switch <branch-name>
+
+If you don’t have one yet, create and switch to a new one with:
+git switch -c <new-branch-name>
+
+### Step 3
+Pull the latest version of the code so you're working with the freshest copy:
+git pull
+
+*(Only do this if the branch already exists remotely — otherwise skip it.)*
+
+### Step 4
+Make whatever changes you need in your new branch — fix bugs, add features, tweak stuff.
+
+### Step 5
+Once you're happy with the changes, run:
+git add .
+git commit -m "your message"
+git push
+
+After you hit enter on git push, you’ll probably see this message:
+fatal: The current branch <branch-name> has no upstream branch.
+To push the current branch and set the remote as upstream, use:
+
+    git push --set-upstream origin <branch-name>
+
+### Step 6
+Copy and paste that command into Bash:
+git push --set-upstream origin <branch-name>
+
+### Step 7
+Now head over to your GitHub repo page. You should see a green button that says:
+Compare & pull request
+
+### Step 8
+Click it. Add a short title and a quick description of what you changed.
+
+### Step 9
+Hit Create pull request. That sends your changes off for review or merging.
+
+### Step 10
+When you're ready, click Merge pull request, then Confirm merge.
+
+### Step 11
+(Optional but tidy) Click Delete branch to clean up.
+
+# 🎉 Boom — your updates are now part of the main project!
+
+
