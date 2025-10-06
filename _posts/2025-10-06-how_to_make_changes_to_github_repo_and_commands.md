@@ -12,27 +12,27 @@ tags:
 **All the Git Commands Need to Know**
 
 ## 🛠️ Setup & Configuration
-git config --global user.name "Your Name"          # Set your Git username
+git config --global user.name "Your Name"         # Set your Git username
 
-git config --global user.email "you@example.com"   # Set your Git email
+git config --global user.email "you@example.com"  # Set your Git email
 
-git config --list                                  # Show all Git config settings
+git config --list                                 # Show all Git config settings
 
 ## 📁 Repository Initialization
-git init                                           # Create a new Git repository
+git init                                          # Create a new Git repository
 
-git clone <repository-url>                         # Clone a remote repository
+git clone <repository-url>                        # Clone a remote repository
 
-git clone -b <branch-name> <repository-url>        # Clone a specific branch from a remote repo
+git clone -b <branch-name> <repository-url>       # Clone a specific branch from a remote repo
 
 ## 📦 Staging & Committing
-git add <file>                                     # Stage a specific file
+git add <file>                                    # Stage a specific file
 
-git add .                                          # Stage all changes in the current directory
+git add .                                         # Stage all changes in the current directory
 
-git commit -m "Your commit message"                # Commit staged changes with a message
+git commit -m "Your commit message"               # Commit staged changes with a message
 
-git commit -a -m "Your commit message"             # Stage and commit all tracked files
+git commit -a -m "Your commit message"            # Stage and commit all tracked files
 
 ## 🔍 Status & Differences
 git status                                         # Show the working directory status
