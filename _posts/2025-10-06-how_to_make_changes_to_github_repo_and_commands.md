@@ -112,7 +112,7 @@ git pull
 
 ### Step 4
 Create and switch to a new branch where you'll make your changes:
-git switch -c <new-branch-name>
+git switch -c______ *(Make sure you add your desired name for the branch in the black space)*
 
 ### Step 5
 Make whatever changes you need in your new branch — fix bugs, add features, tweak stuff.
