@@ -1,7 +1,7 @@
 ---
 title: Engineering Chronicles - Disc Launcher Debut
 layout: post
-post-image: "/assets/images/blog/disc_launcher.jpg"
+post-image: "/assets/images/blog/COIN-clear-bg_1.webp"
 description: My first CrunchLabs box.
 tags:
 - engineering
