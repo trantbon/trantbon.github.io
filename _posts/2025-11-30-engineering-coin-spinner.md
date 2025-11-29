@@ -1,13 +1,13 @@
 ---
-title: Engineering Chronicles - Disc Launcher Debut
+title: Engineering Chronicles - Coin Spinner
 layout: post
 post-image: "/assets/images/blog/COIN-clear-bg_1.webp"
-description: My first CrunchLabs box.
+description: My second CrunchLabs box.
 tags:
 - engineering
 - robotics
 - DIY
-- Disc Launcher
+- Coin Spinner
 ---
 
 This is continuing from my first CrunchLabs box. This next box comes with the coin spinner, which is actually way cooler than it sounds. Most people around the world can’t even spin a coin properly — like, it just wobbles and falls over. That’s why Mark Rober made the coin spinner in the first place. It helps you spin a coin perfectly every time.
