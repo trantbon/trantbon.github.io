@@ -19,4 +19,5 @@ The ratchet's core function is to allow motion to move in one way, but not the o
 
 *copyright by Kevin and Mark Rober
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L9Wpooyoino"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L9Wpooyoino"frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
