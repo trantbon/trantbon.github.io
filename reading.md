@@ -63,6 +63,12 @@ layout: reading
 - {: .read-book-li } A Tale of Magic
 - {: .read-book-li } A Tale of Witchacraft
 - {: .read-book-li } A Tale of Sorcery
+## Lockwood and co
+- {: .read-book-li } The Screaming Staircase 
+- {: .read-book-li } The Whispering Skull
+- {: .read-book-li } The Hollow Boy
+- {: .read-book-li } Creeping Shadow
+- {: .read-book-li } The Empty Grave
 
 
 
