@@ -1,7 +1,7 @@
 ---
 title: Engineering Chronicles - Waves
 layout: post
-post-image: "/assets/images/blog/cacddd39-88a9-4421-9f86-02b88b3891f8.png"
+post-image: "/assets/images/blog/waves.jpg"
 description: A guide no how to use the git commands properly and how to make changes to GitHub repo!
 tags:
 - GitHub

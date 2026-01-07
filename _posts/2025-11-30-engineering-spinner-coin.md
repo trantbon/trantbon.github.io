@@ -1,7 +1,7 @@
 ---
 title: Engineering Chronicles - Coin Spinner
 layout: post
-post-image: "/assets/images/blog/waves.jpg"
+post-image: "/assets/images/blog/COIN-clear-bg_1.webp"
 description: My second CrunchLabs box.
 tags:
 - engineering
