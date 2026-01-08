@@ -78,13 +78,13 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 <br><br>
 - 🏆 **2025** | Top 25% in Australasian Maths Olympiads
 <br><br>
-- 🏆 2025 | Overall Cross Country 2025</li>
+- 🏆 2025 | Overall Cross Country 2025
 <br><br>
-- 🏆 2025 | Botany Bay Cross Country</li>
+- 🏆 2025 | Botany Bay Cross Country
 <br><br>
-- 🏆 2025 | Botany Bay Athletics</li>
+- 🏆 2025 | Botany Bay Athletics
 <br><br>
-- 🏆 2025 | Academic award (Year 6)</li>
+- 🏆 2025 | Academic award (Year 6)
 <br><br>
 **Athletics, Swimming & Cross Country (2022–2025):**
 <br><br>
