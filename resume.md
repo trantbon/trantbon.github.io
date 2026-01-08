@@ -74,6 +74,18 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 <br><br>
 - 🏆 **2022** | PSSA Soccer Boys Trophy
 <br><br>
+- 🏆 **2025** | Elected Sport Minister (Year 6)
+<br><br>
+- 🏆 **2025** | Top 25% in Australasian Maths Olympiads
+<br><br>
+- 🏆 2025 | Overall Cross Country 2025</li>
+<br><br>
+- 🏆 2025 | Botany Bay Cross Country</li>
+<br><br>
+- 🏆 2025 | Botany Bay Athletics</li>
+<br><br>
+- 🏆 2025 | Academic award (Year 6)</li>
+<br><br>
 **Athletics, Swimming & Cross Country (2022–2025):**
 <br><br>
 🏅 6x First Place – Athletics
@@ -83,6 +95,7 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 🏅 3x First Place – Cross Country
 <br><br>
 🥈 Multiple Second & Third Place Ribbons across all three sports
+
 
 
 ---
