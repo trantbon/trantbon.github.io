@@ -118,11 +118,12 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 ---
 
 ## **Current Goals**
-- Prepare for the **Selective School Test (SS)**
+- Prepare for the **Selective School Test (Year 8)**
 <br><br>
 - Continue improving in **mathematics and writing**
 <br><br>
 - Compete at higher levels in **soccer and athletics**
 <br><br>
 - Inspire others through leadership and teamwork
-
+<br><br>
+- Prepare for the **Higher Ability Selection Test (HAST)**

@@ -41,6 +41,8 @@ layout: reading
 
 ## 📙 Educational
 - {: .read-book-li } 7 habits of highly effective teens
+- {: .read-book-li } Atomic Habits 
+- {: .read-book-li } Engineering For Teens
 
 ## 📙 Kenzy and Max
 - {: .read-book-li } Breaking News
@@ -69,9 +71,3 @@ layout: reading
 - {: .read-book-li } The Hollow Boy
 - {: .read-book-li } Creeping Shadow
 - {: .read-book-li } The Empty Grave
-
-
-
-
-
-
