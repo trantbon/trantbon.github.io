@@ -67,7 +67,16 @@ layout: reading
 - {: .read-book-li } A Tale of Sorcery
 ## Lockwood and co
 - {: .read-book-li } The Screaming Staircase 
+- **Summary:** *In a London plagued by deadly spirits, Lucy Carlyle joins the small, teenage-run agency Lockwood & Co. After a disastrous job leaves them facing a massive fine, they must survive a night at Combe Carey Hall, the most haunted house in England. By braving the Screaming Staircase and the Red Room, the trio uncovers a long-hidden murder, clearing their debts and securing their reputation as expert investigators.*
 - {: .read-book-li } The Whispering Skull
 - {: .read-book-li } The Hollow Boy
 - {: .read-book-li } Creeping Shadow
 - {: .read-book-li } The Empty Grave
+
+## Runt 
+- {: .read-book-li } Runt
+- {: .read-book-li } Runt and the Diabolical Dognapping
+
+## Twisted tales
+- {: .read-book-li } Mirror, Mirror
+- {: .read-book-li } As Old As Time
