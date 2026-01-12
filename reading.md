@@ -69,6 +69,7 @@ layout: reading
 - {: .read-book-li } The Screaming Staircase 
 - **Summary:** *In a London plagued by deadly spirits, Lucy Carlyle joins the small, teenage-run agency Lockwood & Co. After a disastrous job leaves them facing a massive fine, they must survive a night at Combe Carey Hall, the most haunted house in England. By braving the Screaming Staircase and the Red Room, the trio uncovers a long-hidden murder, clearing their debts and securing their reputation as expert investigators.*
 - {: .read-book-li } The Whispering Skull
+- **Summary** *In The Whispering Skull, Lockwood & Co. competes with rival agents to recover a lethal artifact stolen from the tomb of the sinister Victorian doctor Edmund Bickerstaff. As the team hunts for this "bone-glass," the Type Three ghost trapped in George’s silver-glass jar begins communicating exclusively with Lucy, offering cynical clues about the mirror's dark origins. Their race to contain the object's deadly power reveals a deeper conspiracy and proves that Lucy’s psychic connection to the dead is growing dangerously strong.*
 - {: .read-book-li } The Hollow Boy
 - {: .read-book-li } Creeping Shadow
 - {: .read-book-li } The Empty Grave
