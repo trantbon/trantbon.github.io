@@ -71,6 +71,7 @@ layout: reading
 - {: .read-book-li } The Whispering Skull
 - **Summary** *In The Whispering Skull, Lockwood & Co. competes with rival agents to recover a lethal artifact stolen from the tomb of the sinister Victorian doctor Edmund Bickerstaff. As the team hunts for this "bone-glass," the Type Three ghost trapped in George’s silver-glass jar begins communicating exclusively with Lucy, offering cynical clues about the mirror's dark origins. Their race to contain the object's deadly power reveals a deeper conspiracy and proves that Lucy’s psychic connection to the dead is growing dangerously strong.*
 - {: .read-book-li } The Hollow Boy
+- **Summary** * In The Hollow Boy, Lockwood and his friends have to deal with a massive ghost breakout in London called the Chelsea Outbreak. Because there are so many ghosts, Lockwood hires a new girl named Holly to help, but this makes Lucy feel very jealous and left out. While they are investigating a haunted shop, they find out that a rival company called the Rotwell Agency might be doing something suspicious. Lucy also realizes that her power to talk to ghosts is becoming much stronger and more dangerous. At the end of the story, even though they stop the ghosts, Lucy decides to leave the team because she is scared her powers will accidentally get Lockwood, the boy she has a crush on, killed. *
 - {: .read-book-li } Creeping Shadow
 - {: .read-book-li } The Empty Grave
 
