@@ -82,3 +82,13 @@ layout: reading
 ## 📙 Twisted tales
 - {: .read-book-li } Mirror, Mirror
 - {: .read-book-li } As Old As Time
+
+## 📙 Percy Jackson
+- {: .read-book-li } The Lightning Theif
+- {: .read-book-li } The Sea Of Monsters
+- {: .read-book-li } The Titan's Curse
+- {: .read-book-li } The Battle of The Labyrinth
+- {: .read-book-li } The Court Of The Dead
+
+## 📙 Raymond E. Feist serise
+- {: .read-book-li } Magician
