@@ -86,6 +86,8 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 <br><br>
 - 🏆 2025 | Academic award (Year 6)
 <br><br>
+- 🏆 2026 | Comming 2nd place in soccer 
+<br><br>
 **Athletics, Swimming & Cross Country (2022–2025):**
 <br><br>
 🏅 6x First Place – Athletics
@@ -132,4 +134,4 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 <br><br>
 - Get to the highest level of Off the Blocks swimming academy **(Gold)**
 <br><br>
-- Win a soccer grand finals
+- Come first in soccer division and practice my left foot
