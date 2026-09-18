@@ -88,6 +88,8 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 <br><br>
 - 🏆 2026 | Comming 2nd place in soccer 
 <br><br>
+- 🏆 2026 | Competiting in the Solar Car Challenge
+<br><br>
 **Athletics, Swimming & Cross Country (2022–2025):**
 <br><br>
 🏅 6x First Place – Athletics
