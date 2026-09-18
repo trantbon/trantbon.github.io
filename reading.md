@@ -99,4 +99,4 @@ layout: reading
 - {: .read-book-li } Catching Fire
 - {: .read-book-li } Mockingjay
 - {: .read-book-li } The Ballad of Songbirds and Snakes
-- {: .read-book-li } Sunrise on the Reaping ##(Yet to read)##
+- {: .read-book-li } Sunrise on the Reaping **(Yet to read)**
