@@ -114,11 +114,13 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 - Athletics 🏃
 <br><br>
 - Reading 📖
+<br><br>
+- Camping 🏕️
 
 ---
 
 ## **Current Goals**
-- Prepare for the **Selective School Test (Year 8)**
+- Move up the ranks of the Airforce Cadets to Cadet Under Officer **(CUO)**
 <br><br>
 - Continue improving in **mathematics and writing**
 <br><br>
@@ -127,3 +129,7 @@ One of my standout traits is that I ask a lot of questions—and I’m proud of 
 - Inspire others through leadership and teamwork
 <br><br>
 - Prepare for the **Higher Ability Selection Test (HAST)**
+<br><br>
+- Get to the highest level of Off the Blocks swimming academy **(Gold)**
+<br><br>
+- Win a soccer grand finals
