@@ -33,11 +33,11 @@ permalink: "/resume"
 <br />
 </div>
 <br>
-*Last updated: **October 2025***
+*Last updated: **September 2026***
 
 ## EXECUTIVE SUMMARY
 
-I am an exceptionally athletic individual with a strong passion for sports, demonstrated by my numerous achievements, including trophies, awards, ribbons, and Sydney East jumpers. I actively participate in multiple sports, with soccer being my most dominant and refined skill. In addition to my athletic excellence, I am also highly accomplished in academics, particularly in mathematics. My aptitude in this field is reflected in the multiple mathematics awards I have received, as well as my success in the Math Olympiad, where I have earned distinguished badges.
+I am an exceptionally athletic individual with a strong passion for sports, demonstrated by my numerous achievements, including trophies, awards, ribbons, and Sydney East jumpers. I actively participate in multiple sports, with soccer being my most dominant and refined skill. I have also started to take a liking towards trying new sports like vollyball, Oz-Tag and cricket. In addition to my athletic excellence, I am also highly accomplished in academics, particularly in mathematics. My aptitude in this field is reflected in the multiple mathematics awards I have received, as well as my success in the Math Olympiad, where I have earned distinguished badges. I have also developed many important life skills through Airforce Cadets. Some of those skills include teamwork and leadership, which slowly molds me into an independent and great team member. 
 <br><br>
 Having a diverse set of hobbies has helped shape me into a well-rounded individual, with strengths that span many areas of life. I have a genuine love for subjects like mathematics, English, and especially history. I find it fascinating to learn about how the world came to be the way it is today, or how important inventions and ideas originated. My curiosity drives me to look beyond surface-level facts and really dig into the stories and connections that bring knowledge to life.
 <br><br>
