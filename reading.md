@@ -65,6 +65,7 @@ layout: reading
 - {: .read-book-li } A Tale of Magic
 - {: .read-book-li } A Tale of Witchacraft
 - {: .read-book-li } A Tale of Sorcery
+
 ## 📙 Lockwood and co
 - {: .read-book-li } The Screaming Staircase 
 - **Summary:** *In a London plagued by deadly spirits, Lucy Carlyle joins the small, teenage-run agency Lockwood & Co. After a disastrous job leaves them facing a massive fine, they must survive a night at Combe Carey Hall, the most haunted house in England. By braving the Screaming Staircase and the Red Room, the trio uncovers a long-hidden murder, clearing their debts and securing their reputation as expert investigators.*
@@ -92,3 +93,10 @@ layout: reading
 
 ## 📙 Raymond E. Feist serise
 - {: .read-book-li } Magician
+
+## 📙 Hunger Games
+- {: .read-book-li } The Hunger Games
+- {: .read-book-li } Catching Fire
+- {: .read-book-li } Mockingjay
+- {: .read-book-li } The Ballad of Songbirds and Snakes
+- {: .read-book-li } Sunrise on the Reaping ##(Yet to read)##
