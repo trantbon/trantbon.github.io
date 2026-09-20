@@ -1,7 +1,7 @@
 ---
 title: Solar Car Project
 layout: post
-post-image: "/assets/images/blog/COIN-clear-bg_1.webp"
+post-image: "/assets/images/blog/image.png
 description: Building a, fast, light-weight car just running on solar power
 tags:
 - engineering
