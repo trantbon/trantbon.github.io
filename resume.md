@@ -33,7 +33,7 @@ permalink: "/resume"
 <br />
 </div>
 <br>
-*Last updated: **September 2026**
+Last updated: *September 2026*
 
 ## EXECUTIVE SUMMARY
 
